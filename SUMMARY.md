@@ -1,5 +1,7 @@
-# Table of contents
+<!-- docs/_sidebar.md -->
 
+
+* [HOME](./)
 * [Onion Finance Intro](./README.md)
 
 ## Introduction
