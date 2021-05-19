@@ -1,19 +1,17 @@
-<!-- docs/_sidebar.md -->
+# Table of contents
 
-
-* [HOME](./)
-* [Onion Finance Intro](./README.md)
+* [Onion Finance 简介](README.md)
 
 ## Introduction
 
-* [Tokennomics](./introduction/tokennomics/README.md)
-  * [OFT functions and burn machanism](./introduction/tokennomics/oft-functions-and-burn-machanism.md)
-  * [Circulation Supply Tracking List](./introduction/tokennomics/circulation-supply-tracking-list.md)
-* [Validator Mechanism](./introduction/mechanism/README.md)
-  * [Minting](./introduction/mechanism/minting.md)
-  * [Redeem](./introduction/mechanism/redeem.md)
-  * [Tracking Rewards](./introduction/mechanism/tracking-rewards.md)
-* [Risk](./introduction/risk.md)
+* [Tokennomics](introduction/tokennomics/README.md)
+  * [OFT functions and burn machanism](introduction/tokennomics/oft-functions-and-burn-machanism.md)
+  * [Circulation Supply Tracking List](introduction/tokennomics/circulation-supply-tracking-list.md)
+* [Validator Mechanism](introduction/mechanism/README.md)
+  * [Minting](introduction/mechanism/minting.md)
+  * [Redeem](introduction/mechanism/redeem.md)
+  * [Tracking Rewards](introduction/mechanism/tracking-rewards.md)
+* [Risk](introduction/risk.md)
 
 ## Products
 
