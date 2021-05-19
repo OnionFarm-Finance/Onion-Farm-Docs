@@ -11,5 +11,5 @@ We need more OnionFarmers! Community manager program focused around our communit
 
 To be announced
 
-\*All payouts are done by the **OnionFarm.Finance** team and are pegged to the **USD** values set here and are payable in **OFT**, **HT** or **BNB**. 
+\*All payouts are done by the **OnionFarm.Finance** team and are pegged to the **USD** values set here and are payable in **OFT**, **HT** or **BNB**.
 

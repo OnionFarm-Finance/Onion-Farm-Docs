@@ -1,10 +1,6 @@
 # Lottery Version 1.0
 
-{% embed url="https://testnet.bscscan.com/address/0x516ffd7D1e0Ca40b1879935B2De87cb20Fc1124b" %}
-
-
-
-
+{% embed url="https://testnet.bscscan.com/address/0x516ffd7D1e0Ca40b1879935B2De87cb20Fc1124b" caption="" %}
 
 **Specifics:**
 
@@ -19,8 +15,7 @@
 
 To win the Whitelist lottery, users need to match all 4 numbers on their ticket in the **exact same order** as the 4 winning numbers.
 
-If you don’t match all 4, no need to worry. As long as you match 2 or more numbers in the correct order, you are guaranteed to win a prize.  
-
+If you don’t match all 4, no need to worry. As long as you match 2 or more numbers in the correct order, you are guaranteed to win a prize.
 
 **Winning Ratio:**
 
@@ -31,8 +26,7 @@ If you don’t match all 4, no need to worry. As long as you match 2 or more num
 
 Please note - in the event that no participants were able to match 3 numbers on any draw, the 20% allocated to winners will then be half burned and half transfered to next pool accordingly.
 
-For example, if the final 4 winning numbers are “1-9-3-2”:  
-
+For example, if the final 4 winning numbers are “1-9-3-2”:
 
 * “2-3-9-1” = match 0
 * **“1-9-3-2” = match all 4**
@@ -40,13 +34,9 @@ For example, if the final 4 winning numbers are “1-9-3-2”:
 * “2-3-3-2” = match 2
 * “1-2-1-2” = match 2
 
+**Lottery phases:**
 
-
-**Lottery phases:**  
-
-
-Whitelist lottery session is ending on 5/31/2021 9pm SGT every 12 hours \(2 per day\), with the timings for each as below:  
-
+Whitelist lottery session is ending on 5/31/2021 9pm SGT every 12 hours \(2 per day\), with the timings for each as below:
 
 **Phase 1 - Buy Tickets \(3 AM to 2 PM\)**
 
@@ -69,8 +59,7 @@ If you won, congrats! Share with your friends or in our community groups.
 
 ## **How are ticket numbers drawn?**
 
-The lottery aims to be completely random. Even though the ticket numbers given out are determined by a front-end logic, there is an extremely low chance that anyone is able to determine the 4 winning numbers ahead of time.  
-
+The lottery aims to be completely random. Even though the ticket numbers given out are determined by a front-end logic, there is an extremely low chance that anyone is able to determine the 4 winning numbers ahead of time.
 
 * The 1st lottery number will be determined based on the %10 remainder of a hash encoded by the blockhash and the number of participating users at the entry deadline.
 * The 2nd lottery number will be determined based on the %10 remainder of a hash encoded by the blockhash and the total pooled cake balance at the entry deadline.

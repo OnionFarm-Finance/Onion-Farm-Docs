@@ -1,8 +1,8 @@
 # Prediction
 
-OnionFarm.Finance Prediction is a fun and simple decentralized prediction market. 
+OnionFarm.Finance Prediction is a fun and simple decentralized prediction market.
 
-> #### Predict whether HT and BNB's price will rise or fall – guess correctly to win!
+> ## Predict whether HT and BNB's price will rise or fall – guess correctly to win!
 
 It's easy to take part:
 
