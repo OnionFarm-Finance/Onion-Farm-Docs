@@ -1,4 +1,4 @@
-# BNB 解锁
+# BNB质押解锁机制
 
 ## Redeeming HT or BNB
 
