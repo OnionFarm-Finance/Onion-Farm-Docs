@@ -16,8 +16,8 @@
 ## Products
 
 * [Yield Farming](products/untitled-1.md)
-* [Lottery](products/lottery/README.md)
-  * [Lottery Version 1.0](products/lottery/community-round-whitelist-lottery-pot.md)
+* [彩票池](products/lottery/README.md)
+  * [彩票池规则 1.0](products/lottery/community-round-whitelist-lottery-pot.md)
 * [Prediction](products/prediction/README.md)
   * [Contracts](products/prediction/contracts.md)
 * [Onionade](products/onionade.md)

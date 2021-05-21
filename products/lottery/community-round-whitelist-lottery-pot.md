@@ -1,13 +1,14 @@
-# Lottery Version 1.0
+# 彩票池规则 1.0
+
+### 彩票合约地址
 
 {% embed url="https://testnet.bscscan.com/address/0x516ffd7D1e0Ca40b1879935B2De87cb20Fc1124b" caption="" %}
 
-**Specifics:**
+**合约细则:**
 
-* Winner Lottery Ticket Allocation for 1 ticket: 100 OFT
-* Single User Lottery Entry Limit: No overall limit, but only 50 can be bought at one time through the UI
-* Lottery Entry through the link xxxxxx
-* Each ticket will give users a random 5 digit combination with each digit being between 1-14, for e.g. “1-9-3-2”
+* 每张彩票价格固定为: 100 OFT
+* 单一用户彩票购买限额: 没用总限额, 但是在彩票UI内一次性只能购买50张彩票
+* 购买一张彩票后用户会获得一个随机产生的五数字组合NFT。每个数字范围是1-14, 比如用户会随机获得or e.g. “1-9-3-2”
 
 \*\*\*\*
 

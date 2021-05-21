@@ -9,11 +9,9 @@ description: >-
 
 ## 简介
 
-SteakBank is a multi-asset **staking & Lottery** **platform** for users to participate in validating the respective chain, while at the same time freeing the value locked in it and participate in Lottery pool to win more. This is done by issuing a BEP20 **liquid derivative token** representing the staked token's value on the Binance Smart Chain.
+Onion Farm 是一个支持跨链的多资产权益及彩票平台，支持用户通过锁仓BNB来共同参与BSC验证节点挖矿，并通过分发少量OFT 来平衡锁仓风险与收益。用户也可使用OFT来公平参与Onion Finance平台的链上随机奖池及价格预测机，赚取更多OFT。每一种锁仓币都会等量发行对应的流动性代币，流动性代币将会由字母“o”作为交易对前缀 \(例如 **BNB** -&gt; **oBNB**\)
 
-Liquid token will be represented with an "o" infront of their usual ticker \(i.e **BNB** -&gt; **oBNB**\)
-
-The main feature allows users to use these 🌊 liquid tokens to gain 💸 **extra yields %** by using these Liquid tokens to participate in **liquidity pools** or **lending/borrowing/Lottery** markets.
+我们发行对应流动性代币是为了帮助用户在锁仓期间仍能使用流动性代币来赚取更多的锁仓收益或者参与彩票奖池，在借贷市场中获利等等
 
 On top of maximizing yields, different assets will have other different features that benefit the stakers of different chains.
 
@@ -21,7 +19,7 @@ On top of maximizing yields, different assets will have other different features
 
 ### 通过流动性挖矿，BSC节点挖矿等方式获取更多OFT
 
-Stake LP tokens, earn OFT. You take on a little more exposure to market fluctuations than with the Onionade Pools, but can earn higher APR to offset the risk.
+通过锁定oBNB等代币，赚取 OFT. 这样在锁仓期间也能通过赚取OFT的方式来获取收益，抵御oBNB的价格波动风险
 
 ### 通过在 Onionade OFT自动复投池赚取OFT
 
@@ -33,7 +31,7 @@ Stake OFT in the automated compouding pool, earn free tokens.
 
 ### 彩票
 
-**Millions of dollars** regularly go up for grabs on the OnionFarm Lottery.  
+**彩票池的资金主要来源于用户彩票购买及OFT通缩式交易费用\(0.5%\)**   
 Join as many as **1,000 daily players** for your chance to win big!
 
 ### NFT 手机
