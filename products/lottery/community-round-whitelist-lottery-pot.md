@@ -7,7 +7,7 @@
 * Winner Lottery Ticket Allocation for 1 ticket: 100 OFT
 * Single User Lottery Entry Limit: No overall limit, but only 50 can be bought at one time through the UI
 * Lottery Entry through the link xxxxxx
-* Each ticket will give users a random 5 digit combination with each digit being between 1-14, for e.g. “1-9-3-2”
+* Each ticket will give users a random 4 digit combination with each digit being between 1-14, for e.g. “1-9-3-2”
 
 \*\*\*\*
 
