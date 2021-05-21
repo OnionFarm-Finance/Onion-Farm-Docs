@@ -9,13 +9,13 @@
   * [Circulation Supply Tracking List](introduction/tokennomics/circulation-supply-tracking-list.md)
 * [Validator Mechanism](introduction/mechanism/README.md)
   * [Minting](introduction/mechanism/minting.md)
-  * [Redeem](introduction/mechanism/redeem.md)
+  * [BNB Redeem](introduction/mechanism/redeem.md)
   * [Tracking Rewards](introduction/mechanism/tracking-rewards.md)
 * [Risk](introduction/risk.md)
 
 ## Products
 
-* [Yield Farming](products/untitled-1.md)
+* [质押挖矿](products/untitled-1.md)
 * [彩票池](products/lottery/README.md)
   * [彩票池规则 1.0](products/lottery/community-round-whitelist-lottery-pot.md)
 * [Prediction](products/prediction/README.md)

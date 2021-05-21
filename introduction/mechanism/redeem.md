@@ -1,8 +1,8 @@
-# Redeem
+# BNB Redeem
 
 ## Redeeming HT or BNB
 
-📍 User who holds oBNB or oHT will be able to redeem HT and BNB, according to the Total LBNB/BNB ratio.
+📍 持有 oBNB or oHT 的用户可以兑换BNB, 根据 LBNB/BNB 兑换率。币安支持的质押解锁期是7天，但是根据我们的预期，由于新用户不断质押和解锁，这个周期是可以缩短的。
 
 {% hint style="info" %}
 The unbonding process of BNB is a fixed 7 days for direct Binance Chain\(BC\) Validators.
@@ -10,12 +10,12 @@ The unbonding process of BNB is a fixed 7 days for direct Binance Chain\(BC\) Va
 HT Validator unstaking process should be more or less the same
 {% endhint %}
 
-As the number of users grows, the probability of earlier unstake will be higher and faster. This is because the ability for early unstake works in the way whereby newcomers who would like to stake, could net off the amount of BNB that users would like to unstake.
+用户数量增长后，会有更多用户去申请提前解锁，也会有更多用户申请质押。这样质押和解锁的需求可以在智能合约内进行一些对冲，允许用户在少于七天的时间里解锁（一般为2~3天）
 
-For example:  
-_If there is a user A looking to stake 100 HT, and another user B looking to unstake 70 HT, then all 70 HT can be unstake in a day._
+举例:  
+_如果用户A想要质押 100 BNB，用户B想要解锁70 oBNB，那用户B可以得到全部质押解锁_ 
 
-_However, if it is the other way round, with user A looking to stake 70 HT, and user B wanting to unlock 100 HT, 70 HT can be unstaked in a day but the 30 BNB will be queued up._
+_反过来，如果用户A想要质押 70 BNB，用户B想要解锁100 oBNB，那用户B只能暂时解锁70 BNB并将剩余的30 oBNB放入解锁队列_
 
-_When multiple users try to unstake during a period, all the prior pending unstakes will have been fulfilled, before fulfilling the current one. Volunteers in our community will be in charge of claiming all “mature unstakes”. Users don't need to do anything and their unstaked HT will be paid to their wallets automatically._
+_另外，智能合约将会保证所有满足币安七天解锁期的用户得到完全解锁，而不是放入解锁池中供其他用户解锁_
 

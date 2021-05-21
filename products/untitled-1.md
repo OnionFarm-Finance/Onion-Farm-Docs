@@ -2,29 +2,32 @@
 description: Testnet
 ---
 
-# Yield Farming
+# 质押挖矿
 
-Gus, please **do your own research** on Liquidity yield farming on Pancakeswap or MDEX docs, there are so many material to read, we simply can't copy-paste everything here. The only thing we may need to mention is that we will **dynamically** choose the highest farming pair to the pool with least fees. If you don't know this part, better not participate in the genesis farming, just **bite** the "Onions" in salad plate which is well prepared with **less and less supply** all along the way.
+机枪池
+
+OFT将会在机枪池开放后的一个月内每个区块释放200 OFT，之后的每个月都会根据OFT市价以及通缩模型在每个BSC区块内释放低于200的 OFT
+
+### 运行机制：
+
+![](../.gitbook/assets/image%20%284%29.png)
+
+* 选择全网最高收益率及安全性最好的交易对
+* 智能合约自动进行每日复投
+* 根据市场风险和收益率变化自动新增或下架新的流动性质押交易对
+
+### 用户收益（以Pancakeswap为例）：
+
+* 70%的流动池挖矿收益将会以该流动池的奖励发放
+* 30%的奖励将以OFT形式发放
+
+### 机枪池套利
+
+* 根据用户奖励机制及OFT区块发放，交易通缩等机制，OFT交易用户实际上可以计算出OFT的买盘价格，并根据实时价格计算来进行套利
 
 ## 原生单币挖矿
 
-OnionFarm is a multi-asset **staking** **platform** for users to participate in validating the respective chain, while at the same time freeing the value locked in it. This is done by issuing a BEP20\(Later Bridged to HRC20\) **liquid derivative token** representing the staked token's value on the Binance Smart Chain.
 
-Liquid token will be represented with an "**o**" infront of their ticker \(i.e **HT** -&gt; **oHT or HT** -&gt; **oHT**\)
-
-OnionBank Token will be represented with the ticker symbol "**OFT**"
-
-Onion Finance **Farming** is a cross-chain **native** crypto assets **staking platform** for users to participate in validating & saving on the respective chain, while freeing the value locked in it. This is done by issuing a BEP20/ERC20/HRC20 **liquid derivative token** representing the staked token's value on the respective chain like Ethereum, Binance Smart Chain or Huobi Eco Chain.
-
-Liquid token will be represented with an "**o**" infront of their usual ticker \(i.e **BNB** -&gt; **oBNB**\)
-
-Onion Token will be represented with the ticker symbol "**OFT**"
-
-The main feature allows users to use these 🌊 liquid tokens to gain 💸 **extra yields %** by using these Liquid tokens to participate in **liquidity pools** or generate interest in the **lending/borrowing/Lottery** markets.
-
-On top of maximizing yields, different assets will have other different features that benefit the stakers of different chains.BSC Bite Pool
-
-_Taste the sweet and mild with a slight **bite** yields on top of all kinds of "Onion Recipes" on Onion.Finance!!_
 
 ### BNB Validator staking:
 

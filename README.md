@@ -17,7 +17,7 @@ On top of maximizing yields, different assets will have other different features
 
 ## 收益
 
-### 通过流动性挖矿，BSC节点挖矿等方式获取更多OFT
+### 通过流动性机枪池挖矿，BSC节点挖矿等方式获取更多OFT
 
 通过锁定oBNB等代币，赚取 OFT. 这样在锁仓期间也能通过赚取OFT的方式来获取收益，抵御oBNB的价格波动风险
 
