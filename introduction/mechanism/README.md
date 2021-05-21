@@ -1,4 +1,4 @@
-# Validator Mechanism
+# 公链节点质押挖矿机制
 
 ## Binance Chain
 

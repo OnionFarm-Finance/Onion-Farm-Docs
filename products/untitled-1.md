@@ -2,7 +2,7 @@
 description: Testnet
 ---
 
-# 质押挖矿
+# 机枪池及BNB/HT质押挖矿
 
 机枪池
 

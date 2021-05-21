@@ -2,20 +2,20 @@
 
 * [Onion Farm Finance 项目简介](README.md)
 
-## Introduction
+## 项目简介 <a id="introduction"></a>
 
-* [Tokennomics](introduction/tokennomics/README.md)
+* [代币经济](introduction/tokennomics/README.md)
   * [OFT 功能及燃烧机制](introduction/tokennomics/oft-functions-and-burn-machanism.md)
   * [Circulation Supply Tracking List](introduction/tokennomics/circulation-supply-tracking-list.md)
-* [Validator Mechanism](introduction/mechanism/README.md)
+* [公链节点质押挖矿机制](introduction/mechanism/README.md)
   * [Minting](introduction/mechanism/minting.md)
   * [BNB质押解锁机制](introduction/mechanism/redeem.md)
   * [Tracking Rewards](introduction/mechanism/tracking-rewards.md)
 * [Risk](introduction/risk.md)
 
-## Products
+## 产品简介 <a id="products"></a>
 
-* [质押挖矿](products/untitled-1.md)
+* [机枪池及BNB/HT质押挖矿](products/untitled-1.md)
 * [彩票池](products/lottery/README.md)
   * [彩票池规则 1.0](products/lottery/community-round-whitelist-lottery-pot.md)
 * [Prediction](products/prediction/README.md)
@@ -33,7 +33,7 @@
 * [Roadmap](roadmap.md)
 * [Audit](audit.md)
 
-## Community
+## 社区生态 <a id="community"></a>
 
 * [Bug Bounty](community/bug-bounty.md)
 * [Contributing](community/contributing.md)

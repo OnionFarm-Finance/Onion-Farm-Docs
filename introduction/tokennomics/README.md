@@ -1,4 +1,4 @@
-# Tokennomics
+# 代币经济
 
 **Ticker**: OFT
 
