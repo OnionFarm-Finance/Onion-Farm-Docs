@@ -2,25 +2,25 @@
 description: The Onion-Based Lemonade You Never Knew You Craved
 ---
 
-# Onionade
+# Onionade单币自动复投分红池
 
-## Stake ONF, earn ONF!
+## 质押OFT, 赢取更多OFT!
 
-You will get two delicious flavors of ONF-ONF Onionade Pool to choose from: Auto-compounding, and Manual once we launch it
+You will get two delicious flavors of ONF-ONF Onionade Pool to choose from: Auto-compounding
 
-### What’s special about “Auto ONF Pool”? <a id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
+### What’s special about “Auto OFT Pool”? <a id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
 
 **you can simply stake your ONF tokens to earn more ONF tokens**
 
-**Auto ONF**
+**Auto OFT**
 
-* Stake your ONF and forget about it! The ONF you stake in this Onionade Pool will be automatically compounded \(reinvested\) daily for you, minus a small fee.
+* Stake your OFT and forget about it! The OFT you stake in this Onionade Pool will be automatically compounded \(reinvested\) daily for you, minus a small fee.
 * The “automatic” compounding function is triggered by other users who get a small bounty for triggering it.
 * Interest is displayed as APY, which includes compounding.
 * A small performance fee is subtracted from your earnings each time the pool is automatically compounded. See below.
 * An unstaking fee\(OFT\) applies when you unstake within 3 days of manually staking
 
-### What are the fees for the Auto ONF Onionade Pool?
+### What are the fees for the Auto OFT Onionade Pool?
 
 **Deposit fee**
 

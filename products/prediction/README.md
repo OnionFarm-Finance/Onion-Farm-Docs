@@ -1,4 +1,4 @@
-# Prediction
+# 预测池
 
 OnionFarm.Finance Prediction is a fun and simple decentralized prediction market.
 
