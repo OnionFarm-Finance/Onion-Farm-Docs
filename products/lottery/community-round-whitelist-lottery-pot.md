@@ -6,26 +6,27 @@
 
 **合约细则:**
 
+* **彩票池的资金主要来源于用户彩票购买使用的OFT，上一轮奖池转入以及OFT自有的通缩式交易费用\(0.5%\)** 
 * 每张彩票价格固定为: 100 OFT
 * 单一用户彩票购买限额: 没用总限额, 但是在彩票UI内一次性只能购买50张彩票
-* 购买一张彩票后用户会获得一个随机产生的五数字组合NFT。每个数字范围是1-14, 比如用户会随机获得or e.g. “1-9-3-2”
+* 购买一张彩票后用户会获得一个随机产生的四个数字组合的NFT。每个数字范围是1-14, 比如用户会随机获得 “1-9-3-2”
 
 \*\*\*\*
 
-**How to win:**
+**赢取规则:**
 
-To win the Whitelist lottery, users need to match all 4 numbers on their ticket in the **exact same order** as the 4 winning numbers.
+如果想赢取奖励, 用户获得的四位随机数彩票需要能够完整按顺序对应本期彩票大奖结果
 
-If you don’t match all 4, no need to worry. As long as you match 2 or more numbers in the correct order, you are guaranteed to win a prize.
+如果你的彩票没有能够全部投中，那也无需担心。只要你中两个或者三个数字，也会赢得相应的二三等奖
 
 **Winning Ratio:**
 
-* Match all 4 numbers in the exact order = win 50% of the pot \(or split the pot if more than 1 winner\). 
-* Match 3 numbers in the exact order = win or split 20% of the pot.
-* Match 2 numbers in the exact order = win or split 5% of the pot.
-* Burn the remaining 15% of the pot, and transfer the rest 10% OFT to next pool
+* 四位数字按顺序全中 = 获得或分享奖池内50% 的OFT
+* 三位数字按顺序投中 = 赢取或分享奖池内10%的OFT
+* 两位数字按顺序投中 = 赢取或分享奖池内5%的OFT
+* 奖池智能合约将会燃烧奖池内剩余的 15% OFT, 并将剩余20% OFT转入下一轮奖池
 
-Please note - in the event that no participants were able to match 3 numbers on any draw, the 20% allocated to winners will then be half burned and half transfered to next pool accordingly.
+Please note - 如果本轮一等奖，二等奖或者三等奖无人中奖，那么对应的OFT奖池分配额度将会40%燃烧，60%累积至下一轮奖池
 
 For example, if the final 4 winning numbers are “1-9-3-2”:
 
@@ -35,34 +36,32 @@ For example, if the final 4 winning numbers are “1-9-3-2”:
 * “2-3-3-2” = match 2
 * “1-2-1-2” = match 2
 
-**Lottery phases:**
+**彩票运行示例:**
 
-Whitelist lottery session is ending on 5/31/2021 9pm SGT every 12 hours \(2 per day\), with the timings for each as below:
+**Phase 1 - 购买彩票 \(1 PM to 2 PM\)**
 
-**Phase 1 - Buy Tickets \(3 AM to 2 PM\)**
+* 每轮彩票池开放后用户有一小时来购买彩票 
+* 奖池会根据用户购买数来更新奖励规模
+* 用户购买后会收到一张带有四位数字信息的NFT彩票 \(comprised of 4 digits\) for each 100 OFT paid.
 
-* You have 1 hour to buy tickets. 
-* The lottery jackpot will accumulate at the top of the page with each ticket bought.
-* Users will receive a ticket \(comprised of 4 digits\) for each 1 CAKE paid.
-
-**Phase 2 - Lottery Draw! \(2 PM\)**
+**Phase 2 - 彩票开奖! \(2 PM\)**
 
 * The 4 winning lottery numbers are drawn and will appear on the page. 
 * Each participant’s winnings will be automatically calculated based on their ticket numbers and shown on the page.
 * Users can claim winnings if they have any.
 * Users will also be able to see the lottery results: How many users matched all 4 numbers, 3 numbers and 2 numbers. 
 
-**Phase 3 - Celebration and Sharing \(2 PM - 3PM\)**
+**Phase 3 - 兑现 \(2 PM - 3PM\)**
 
-If you won, congrats! Share with your friends or in our community groups.
+如果你赢取了奖励，可以在兑现界面兑换相应的NFT奖励
 
-**The next lottery starts in 1 hour!**
+下一轮奖池会在三点后重新开放
 
 ## **How are ticket numbers drawn?**
 
 The lottery aims to be completely random. Even though the ticket numbers given out are determined by a front-end logic, there is an extremely low chance that anyone is able to determine the 4 winning numbers ahead of time.
 
-* The 1st lottery number will be determined based on the %10 remainder of a hash encoded by the blockhash and the number of participating users at the entry deadline.
+* 第一个中奖数字将会根据参与奖池的用户数字与一小时内的区块hash来确定 lottery number will be determined based on the %10 remainder of a hash encoded by the blockhash and the number of participating users at the entry deadline.
 * The 2nd lottery number will be determined based on the %10 remainder of a hash encoded by the blockhash and the total pooled cake balance at the entry deadline.
 * The 3rd lottery number will be determined based on the %10 remainder of a hash encoded by the blockhash and the timestamp of the last lottery participant at the entry deadline.
 * The 4th lottery number will be determined based on the %10 remainder of a hash encoded by the blockhash and the block difficulty at the entry deadline.

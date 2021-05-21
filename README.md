@@ -31,7 +31,7 @@ Stake OFT in the automated compouding pool, earn free tokens.
 
 ### 彩票
 
-**彩票池的资金主要来源于用户彩票购买及OFT通缩式交易费用\(0.5%\)**   
+**彩票池的资金主要来源于用户彩票购买使用的OFT，上一轮奖池转入以及OFT自有的通缩式交易费用\(0.5%\)**   
 Join as many as **1,000 daily players** for your chance to win big!
 
 ### NFT 手机

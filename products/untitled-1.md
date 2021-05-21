@@ -6,7 +6,7 @@ description: Testnet
 
 Gus, please **do your own research** on Liquidity yield farming on Pancakeswap or MDEX docs, there are so many material to read, we simply can't copy-paste everything here. The only thing we may need to mention is that we will **dynamically** choose the highest farming pair to the pool with least fees. If you don't know this part, better not participate in the genesis farming, just **bite** the "Onions" in salad plate which is well prepared with **less and less supply** all along the way.
 
-## Native Farming
+## 原生单币挖矿
 
 OnionFarm is a multi-asset **staking** **platform** for users to participate in validating the respective chain, while at the same time freeing the value locked in it. This is done by issuing a BEP20\(Later Bridged to HRC20\) **liquid derivative token** representing the staked token's value on the Binance Smart Chain.
 
@@ -28,17 +28,22 @@ _Taste the sweet and mild with a slight **bite** yields on top of all kinds of "
 
 ### BNB Validator staking:
 
+架构:
+
+![](../.gitbook/assets/image%20%282%29.png)
+
 **Bite** the sweet sizzling juicy yields on top of the well sliced "onions" !!
 
-* Average yield is 60% last year provided by Binance data
-* Dynamic yield maximizing across multiple validators
-* High validator rewards backed by BSC high transaction volume and rich eco system
-* Safe staking fully controlled by **Validators Contract**, no loss of stake even if the validator is jailed 
-* Binance chain **standard** unstaking time - **7 days**
+* 根据币安数据，去年的节点平均奖励年化是60%
+* 币安智能链的21个节点奖励分配比例在80%至50%之间
+* Onion Farm会动态调节节点锁仓，保证赚取最大的奖励年化
+* 币安智能链目前交易量已经超过ETH
+* 智能合约安全质押锁仓，保证用户资金安全和可兑换性
+* 币安智能链的质押解锁期 - **7 days**
 
-The project will start with BNB on BSC network naming "Bite Pool" , before expanding into other BSC assets with farming/lending.
+我们的第一个矿池将会使用 BNB 并在BSC上部署相应的智能合约，同时给与用户一定量的OFT来最大化用户收益
 
-One of our main advantage would be **early redeemption policy**:
+我们的另外一个优势是能够实现更短的BNB质押解锁期：
 
 {% page-ref page="../introduction/mechanism/redeem.md" %}
 
