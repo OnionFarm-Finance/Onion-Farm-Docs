@@ -5,11 +5,11 @@
 ## Introduction
 
 * [Tokennomics](introduction/tokennomics/README.md)
-  * [OFT functions and burn machanism](introduction/tokennomics/oft-functions-and-burn-machanism.md)
+  * [OFT 功能及燃烧机制](introduction/tokennomics/oft-functions-and-burn-machanism.md)
   * [Circulation Supply Tracking List](introduction/tokennomics/circulation-supply-tracking-list.md)
 * [Validator Mechanism](introduction/mechanism/README.md)
   * [Minting](introduction/mechanism/minting.md)
-  * [BNB Redeem](introduction/mechanism/redeem.md)
+  * [BNB 解锁](introduction/mechanism/redeem.md)
   * [Tracking Rewards](introduction/mechanism/tracking-rewards.md)
 * [Risk](introduction/risk.md)
 

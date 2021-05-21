@@ -1,4 +1,4 @@
-# BNB Redeem
+# BNB 解锁
 
 ## Redeeming HT or BNB
 
