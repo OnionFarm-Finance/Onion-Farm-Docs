@@ -12,7 +12,7 @@ You will get two delicious flavors of ONF-ONF Onionade Pool to choose from: Auto
 
 **you can simply stake your ONF tokens to earn more ONF tokens**
 
-**Auto ONF** 
+**Auto ONF**
 
 * Stake your ONF and forget about it! The ONF you stake in this Onionade Pool will be automatically compounded \(reinvested\) daily for you, minus a small fee.
 * The “automatic” compounding function is triggered by other users who get a small bounty for triggering it.
@@ -26,7 +26,7 @@ You will get two delicious flavors of ONF-ONF Onionade Pool to choose from: Auto
 
 * **None**
 
-**Unstaking fee** 
+**Unstaking fee**
 
 * **1% if you unstake \(withdraw\) within 72 hours.**
 * After 3 days, you can unstake with **no fee**.
@@ -39,7 +39,7 @@ You will get two delicious flavors of ONF-ONF Onionade Pool to choose from: Auto
 * For example, if the harvest was 1 ONF, then 0.02 ONF would be subtracted as the performance fee.
 
 {% hint style="info" %}
-The ONF collected via the unstaking fee and performance fee is **burned every week** as part of the regular ONF token burns. 
+The ONF collected via the unstaking fee and performance fee is **burned every week** as part of the regular ONF token burns.
 
 This is a good thing for ONF holders because it reduces the overall amount of OFT tokens in existence, which helps reduce inflation.
 {% endhint %}

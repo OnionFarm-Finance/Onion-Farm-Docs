@@ -1,10 +1,10 @@
 # Risk
 
-## **Smart Contract Risk** 
+## **Smart Contract Risk**
 
 The security of StakeBank.Finance’s contracts are of utmost priority. Contracts will be audited, and reports will be shared with the community once it is done. However, it is also the user’s responsibility to vet through the contract before engaging it.
 
-## **Slashing Risk** 
+## **Slashing Risk**
 
 Due to the way Binance Smart Chain and Huobi Eco Chain validating works, if there is a penalty on slashing on the validator node, only the validator’s tokens will be penalized, and will not affect the delegator’s token.
 

@@ -4,5 +4,3 @@
 
 {% page-ref page="nft-trade-and-staking.md" %}
 
-
-

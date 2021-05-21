@@ -5,9 +5,9 @@ description: >-
   Github, and maintained by the community.
 ---
 
-# Onion Finance 简介
+# Onion Farm Finance 项目简介
 
-## Introduction
+## 简介
 
 SteakBank is a multi-asset **staking & Lottery** **platform** for users to participate in validating the respective chain, while at the same time freeing the value locked in it and participate in Lottery pool to win more. This is done by issuing a BEP20 **liquid derivative token** representing the staked token's value on the Binance Smart Chain.
 
@@ -17,31 +17,30 @@ The main feature allows users to use these 🌊 liquid tokens to gain 💸 **ext
 
 On top of maximizing yields, different assets will have other different features that benefit the stakers of different chains.
 
-## Earn
+## 收益
 
-### Earn OFT with Yield Farms
+### 通过流动性挖矿，BSC节点挖矿等方式获取更多OFT
 
-Stake LP tokens, earn CAKE. You take on a little more exposure to market fluctuations than with the Syrup Pools, but can earn higher APR to offset the risk.
+Stake LP tokens, earn OFT. You take on a little more exposure to market fluctuations than with the Onionade Pools, but can earn higher APR to offset the risk.
 
-### Earn tokens with Onionade Pools
+### 通过在 Onionade OFT自动复投池赚取OFT
 
 Stake OFT in the automated compouding pool, earn free tokens.
 
-## 🎲 Win
+## 🎲 竞猜
 
 > PancakeSwap makes making money fun.
 
-### Lottery
+### 彩票
 
 **Millions of dollars** regularly go up for grabs on the OnionFarm Lottery.  
 Join as many as **1,000 daily players** for your chance to win big!
 
-### NFT Collectibles
+### NFT 手机
 
-Win collectible NFTs for participating in trading competitions and more fun & games.
+通过参与交易和其他项目来获取 collectible NFTs 以及更好的游戏体验
 
-### Prediction
+### 预测
 
-Win BNB if you can predict whether the BNB price will rise or fall.  
-New rounds every 5 minutes!
+用户可以通过预测BNB等币值上升或下降走势来赢取OFT，每五分钟开启一轮预测池
 

@@ -8,19 +8,19 @@ Gus, please **do your own research** on Liquidity yield farming on Pancakeswap o
 
 ## Native Farming
 
-OnionFarm is a multi-asset **staking** **platform** for users to participate in validating the respective chain, while at the same time freeing the value locked in it. This is done by issuing a BEP20\(Later Bridged to HRC20\) **liquid derivative token** representing the staked token's value on the Binance Smart Chain.  
-  
-Liquid token will be represented with an "**o**" infront of their ticker \(i.e **HT** -&gt; **oHT or HT** -&gt; **oHT**\)  
-  
+OnionFarm is a multi-asset **staking** **platform** for users to participate in validating the respective chain, while at the same time freeing the value locked in it. This is done by issuing a BEP20\(Later Bridged to HRC20\) **liquid derivative token** representing the staked token's value on the Binance Smart Chain.
+
+Liquid token will be represented with an "**o**" infront of their ticker \(i.e **HT** -&gt; **oHT or HT** -&gt; **oHT**\)
+
 OnionBank Token will be represented with the ticker symbol "**OFT**"
 
-Onion Finance **Farming** is a cross-chain **native** crypto assets **staking platform** for users to participate in validating & saving on the respective chain, while freeing the value locked in it. This is done by issuing a BEP20/ERC20/HRC20 **liquid derivative token** representing the staked token's value on the respective chain like Ethereum, Binance Smart Chain or Huobi Eco Chain.  
-  
-Liquid token will be represented with an "**o**" infront of their usual ticker \(i.e **BNB** -&gt; **oBNB**\)  
-  
+Onion Finance **Farming** is a cross-chain **native** crypto assets **staking platform** for users to participate in validating & saving on the respective chain, while freeing the value locked in it. This is done by issuing a BEP20/ERC20/HRC20 **liquid derivative token** representing the staked token's value on the respective chain like Ethereum, Binance Smart Chain or Huobi Eco Chain.
+
+Liquid token will be represented with an "**o**" infront of their usual ticker \(i.e **BNB** -&gt; **oBNB**\)
+
 Onion Token will be represented with the ticker symbol "**OFT**"
 
-The main feature allows users to use these 🌊 liquid tokens to gain 💸 **extra yields %** by using these Liquid tokens to participate in **liquidity pools** or generate interest in the **lending/borrowing/Lottery** markets. 
+The main feature allows users to use these 🌊 liquid tokens to gain 💸 **extra yields %** by using these Liquid tokens to participate in **liquidity pools** or generate interest in the **lending/borrowing/Lottery** markets.
 
 On top of maximizing yields, different assets will have other different features that benefit the stakers of different chains.BSC Bite Pool
 
@@ -36,7 +36,7 @@ _Taste the sweet and mild with a slight **bite** yields on top of all kinds of "
 * Safe staking fully controlled by **Validators Contract**, no loss of stake even if the validator is jailed 
 * Binance chain **standard** unstaking time - **7 days**
 
-The project will start with BNB on BSC network naming "Bite Pool" , before expanding into other BSC assets with farming/lending. 
+The project will start with BNB on BSC network naming "Bite Pool" , before expanding into other BSC assets with farming/lending.
 
 One of our main advantage would be **early redeemption policy**:
 
