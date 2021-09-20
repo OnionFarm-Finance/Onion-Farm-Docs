@@ -4,7 +4,7 @@ description: Testnet
 
 # Yield Farming
 
-Gus, please **do your own research** on Liquidity yield farming on Pancakeswap or MDEX docs, there are so many material to read, we simply can't copy-paste everything here. The only thing we may need to mention is that we will **dynamically** choose the highest farming pair to the pool with least fees. If you don't know this part, better not participate in the genesis farming, just **bite** the "Onions" in salad plate which is well prepared with **less and less supply** all along the way.
+Guys, please **do your own research** on Liquidity yield farming on Pancakeswap or MDEX docs, there are so many material to read, we simply can't copy-paste everything here. The only thing we may need to mention is that we will **dynamically** choose the highest farming pair to the pool with least fees. If you don't know this part, better not participate in the genesis farming, just **bite** the "Onions" in salad plate which is well prepared with **less and less supply** all along the way.
 
 ## Native Farming
 
